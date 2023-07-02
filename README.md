@@ -8,7 +8,7 @@ This is a web based application developed for journEey on part of earth based we
 
 
 **Project Link** - https://salmon-wave-0be118b10.3.azurestaticapps.net 
-**project Demo video link** -
+**project Demo video link** -https://youtu.be/4o4dgM9YUR8
 
 
 ## Features and Functionalities 😃
